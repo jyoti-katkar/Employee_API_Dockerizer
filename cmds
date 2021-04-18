@@ -1,0 +1,6 @@
+# to create image and add app on container
+docker-compose built or docker-compose up
+
+# to check container is runing
+docker-compose -v
+# it will shows docker version
